@@ -66,12 +66,7 @@ https://openliberty.io/guides/rest-intro.html[Creating a RESTful web service^].
 [role=command]
 include::{common-includes}/gitclone.adoc[]
 
-
-// =================================================================================================
-// Starting the service
-// =================================================================================================
-
-== Starting the service
+=== Try what you'll build
 
 This guide is already setup with a general application. As you progress through the guide
 you will make updates to the code directly, and then push updates to the server
